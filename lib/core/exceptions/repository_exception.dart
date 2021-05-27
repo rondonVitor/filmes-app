@@ -1,0 +1,4 @@
+
+class RepositoryException implements Exception {
+  
+}
